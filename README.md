@@ -24,6 +24,6 @@ The idea came from my interest in understanding ai as deep as I can, rather than
 ## Use
 For private study and reference. Read in order if starting fresh. Read Document 3 first if you want the practical version.
 
-No dependencies. No setup. Just PDFs.
+No dependencies. No setup. Just PDFs. Free downloads.
 
 Lau
